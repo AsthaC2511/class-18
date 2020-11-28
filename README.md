@@ -1,1 +1,2 @@
-# class-18
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
